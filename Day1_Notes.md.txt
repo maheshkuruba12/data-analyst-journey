@@ -1,0 +1,15 @@
+# Day 1 — Excel Fundamentals
+
+## What I Learned
+- SUM, AVERAGE, COUNT, COUNTIF, SUMIF
+- IF statements and nested IF
+- VLOOKUP to merge two tables
+- Text cleaning with TRIM, PROPER
+
+## Project Done
+- Built Sales Audit Dashboard on Superstore data
+- Found 28% orders are loss-making
+- Flagged discount abuse orders using AND+IF
+
+## Key Insight
+West region has highest sales but Central has better profit margin
